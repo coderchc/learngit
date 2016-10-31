@@ -2,3 +2,5 @@
 Git is free software
 xiugai   
 learning github.
+
+fix BUG
